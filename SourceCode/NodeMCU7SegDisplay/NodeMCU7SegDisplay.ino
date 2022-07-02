@@ -1,4 +1,4 @@
-// Robo India tutorial on Seven Segement Display
+// Pinwheel Robotics tutorial on Seven Segement Display
 // Hardware: NodeMCU
 
 
